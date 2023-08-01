@@ -21,3 +21,5 @@ Inserta aquí el enlace a una demostración en vivo o una captura de pantalla de
 - CSS
 
 ## Autor
+
+Este proyecto fue desarrollado por [Luciano Coronel](https://www.linkedin.com/in/luciano-coronel-90503bb8/).
