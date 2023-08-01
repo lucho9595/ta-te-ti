@@ -4,7 +4,7 @@ Este es un juego de Ta-Te-Ti (Tic-Tac-Toe) desarrollado con React. Puedes jugar 
 
 ## Demo
 
-Inserta aquí el enlace a una demostración en vivo o una captura de pantalla de tu aplicación.
+Puede visitar el siguiente deploy para interactuar con el proyecto (https://ta-te-ti-alpha.vercel.app/).
 
 ## Cómo jugar
 
